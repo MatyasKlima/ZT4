@@ -1,3 +1,2 @@
 <?php
-phpinfo();
-
+include"oop.php";
